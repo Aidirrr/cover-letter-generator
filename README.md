@@ -78,8 +78,16 @@ A Streamlit web application that leverages **Google's Gemini AI** to generate pr
 
 ## Screenshots
 
-![App Screenshot](images/app_screenshot.png)  
+<p align="center">
+  <img src="images/screenshot2.png" alt="App Screenshot" width="70%">
+</p>
+
+<p align="center">
+  <img src="images/screenshot1.png" alt="App Screenshot" width="70%">
+</p>
+
 *Example of the app interface.*
+
 
 ---
 
